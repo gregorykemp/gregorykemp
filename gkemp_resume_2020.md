@@ -38,7 +38,7 @@ A design verification generalist with management success.
 ### Senior Staff Engineer, Atom CPU Development Group, Intel, Austin, Texas (Jan. 2010 - May 2016)
 * Led teams (8 to 15 engineers) to complete design verification on arithmetic execution units and the memory subsystem across 5 generations of Atom CPUs. Drove acceptance, test planning, test bench development, and test writing for assigned areas. Arithmetic units had zero escapes to silicon. No coherency bugs escaped to lab.
 * Served as team's leading Specman expert, guiding test bench development and architecture. Led team's effort to migrate towards UVM and SystemVerilog test benches.
-* Developed FV environment able to compile entire Atom� CPU core in JasperGold engine and prove assertions embedded in the design.  Developed regression automation to detect new counterexamples.
+* Developed FV environment able to compile entire Atom CPU core in JasperGold engine and prove assertions embedded in the design.  Developed regression automation to detect new counterexamples.
 * Collaborated to develop functional coverage methodology using SV coverage constructs that greatly reduced the effort required close the DV effort, saving $2.5M in engineer development costs. 
 
 ### Staff Engineer, Atom and SoC Development Group, Intel, Austin, Texas (Jan. 2005 to Jan. 2010)
