@@ -11,6 +11,9 @@ I write a lot of code as part of my job. But the code here is stuff I've written
 * 😄 Pronouns: he/him/his.
 * ⚡ Fun fact: My wife and I recently celebrated our 25th wedding anniversary.
 
+I'm also the webmaster behind [my wife's blog about being an aneurysm survivor.](https://livedtotell.org/)
+
+
 ### Respositories
 
 [UVM Testbench](https://github.com/gregorykemp/sample_uvm_testbench) is a small testbench I wrote to demonstrate my SystemVerilog and UVM knowledge. It's nothing fancy, but it is complete. It exercises the integer multiply and divide unit from a sample RISC-V processor, written in Verilog. The repo includes directions on running the code on [EDA Playground](https://www.edaplayground.com/)
