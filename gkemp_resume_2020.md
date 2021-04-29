@@ -1,6 +1,6 @@
 # Gregory Kemp Resume
 A design verification generalist with management success.
-* Over twenty years of industry experience in design verification of x86 and Power processors, chipsets, software infrastructure and EDA tools. 
+* Over twenty-five years of industry experience in design verification of x86 and Power processors, chipsets, software infrastructure and EDA tools. 
 * Demonstrated ability to lead projects and teams to achieve challenging goals on schedule. 
 * Ability to invent new methodologies and manage process to address problems, cut development costs, and reduce engineer effort.
 
@@ -11,15 +11,19 @@ A design verification generalist with management success.
 * Coverage-driven directed-random testing.
 * Formal verification with JasperGold.
 * Emulation based verification.
-* Job automation with Perl, shell scripts, and Python.
+* Job automation with Perl, Python, and shell scripts.
 
 ## Professional Experience
 ### Hardware Development Engineer, IBM, Austin, Texas (Oct. 2018 - present)
+* Power 11 processor development:
+    * Reprising role from Power 10, bringing up non-mainline functionality.
+    * Infrasturcture work on technical debt items to ease maintenance requirements in the future.
 * Power 10 processor development:
     * Debug of floating-point and vector execution unit tests, on RTL, filing defects as needed.
     * Debug of emulator tests, covering all core functionality, filing defects as needed.
     * Verification of error injection, error detection, and error recovery functionality across whole core. Developed content to enable behaviors. Ran test content on emulation, and also enabled parallel work on RTL models. Worked with exerciser teams to adjust test content when necessary. 
     * Verification of on-die performance monitors. Automated job flow so test content could run on the emulator and self-check.
+    * Support lab debug as needed.
 * Power 9 processor development:
     * Coverage analysis of OpenCAPI interface, identifying gaps in test content and model behavior.
     * Debug of regression failures, filing defects as needed.

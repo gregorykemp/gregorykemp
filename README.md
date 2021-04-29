@@ -2,7 +2,7 @@
 
 I write a lot of code as part of my job. But the code here is stuff I've written on my own.
 
-[An online version of my resume is available here](https://github.com/gregorykemp/gregorykemp/blob/main/gkemp_resume_2020.md) but I'm not really looking for new work at this time. Then again, it's high tech, you never know.
+[An online version of my resume is available here.](https://github.com/gregorykemp/gregorykemp/blob/main/gkemp_resume_2020.md) 
 
 * 🔭 I’m currently working on some stock-market analysis tools in Python.
 * 🌱 I’m currently learning that stock-market analysis in Python is harder than I anticipated.
