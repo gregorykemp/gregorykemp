@@ -18,7 +18,7 @@ I'm also the webmaster behind [my wife's blog about being an aneurysm survivor.]
 
 [UVM Testbench](https://github.com/gregorykemp/sample_uvm_testbench) is a small testbench I wrote to demonstrate my SystemVerilog and UVM knowledge. It's nothing fancy, but it is complete. It exercises the integer multiply and divide unit from a sample RISC-V processor, written in Verilog. The repo includes directions on running the code on [EDA Playground](https://www.edaplayground.com/)
 
-Stonks is something I'm not ready to share publically yet. The name plays off the [Internet meme](https://knowyourmeme.com/memes/stonks).
+Stonks is an attempt to do automatic stock fundamental analysis, with the hope of finding investment opportunities. The name plays off the [Internet meme](https://knowyourmeme.com/memes/stonks).
 
 ### Social Media
 
