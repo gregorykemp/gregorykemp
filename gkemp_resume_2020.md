@@ -15,15 +15,16 @@ A design verification generalist with management success.
 
 ## Professional Experience
 ### Hardware Development Engineer, IBM, Austin, Texas (Oct. 2018 - present)
-* Power 11 processor development:
+* IBM Power 11 processor development:
     * Reprising role from Power 10, bringing up non-mainline functionality.
     * Infrasturcture work on technical debt items to ease maintenance requirements in the future.
+    * Focus on automating failure triage and other repetitive tasks.
 * Power 10 processor development:
     * Debug of floating-point and vector execution unit tests, on RTL, filing defects as needed.
     * Debug of emulator tests, covering all core functionality, filing defects as needed.
     * Verification of error injection, error detection, and error recovery functionality across whole core. Developed content to enable behaviors. Ran test content on emulation, and also enabled parallel work on RTL models. Worked with exerciser teams to adjust test content when necessary. 
     * Verification of on-die performance monitors. Automated job flow so test content could run on the emulator and self-check.
-    * Support lab debug as needed.
+    * Support lab debug as needed. Few defects escaped to lab because of effective emulation verification.
 * Power 9 processor development:
     * Coverage analysis of OpenCAPI interface, identifying gaps in test content and model behavior.
     * Debug of regression failures, filing defects as needed.
