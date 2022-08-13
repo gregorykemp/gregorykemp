@@ -2,14 +2,14 @@
 
 I write a lot of code as part of my job. But the code here is stuff I've written on my own.
 
-[An online version of my resume is available here.](https://github.com/gregorykemp/gregorykemp/blob/main/gkemp_resume_2020.md) 
+[An online version of my resume is available here.](https://github.com/gregorykemp/gregorykemp/blob/main/gkemp_resume_2022.md) 
 
 * 🔭 I’m currently working on some stock-market analysis tools in Python.
 * 🌱 I’m currently learning that stock-market analysis in Python is harder than I anticipated.
 * 💬 Ask me about design verification, computer architecture, engineering management, and the stock market.
 * 📫 How to reach me: email the GitHub account; they know how to reach me.
 * 😄 Pronouns: he/him/his.
-* ⚡ Fun fact: My wife and I recently celebrated our 25th wedding anniversary.
+* ⚡ Fun fact: I keep a small koi pond, which can be challenging in the Texas heat.
 
 I'm also the webmaster behind [my wife's blog about being an aneurysm survivor.](https://livedtotell.org/)
 
