@@ -3,8 +3,8 @@ A design verification generalist with management success.
 * Over twenty-five years of industry experience in design verification of x86 and Power® processors, 
 chipsets, software infrastructure and EDA tools. 
 * Demonstrated ability to lead projects and teams to achieve challenging goals on schedule. 
-* Ability to invent new methodologies and manage process to address problems, cut development costs, 
-and reduce engineer effort.
+* Ability to invent new methodologies and manage processes to address problems, cut development costs, 
+and reduce engineering effort.
 
 ## Skills and Expertise
 * UVM test bench and environment development with SystemVerilog and Specman/e.
@@ -18,16 +18,15 @@ and reduce engineer effort.
 ## Professional Experience
 
 ### Hardware Development Engineer, IBM, Austin, Texas (Oct. 2018 - present)
-* Power® 11 processor development:
-    * Reprising role from Power 10, focused on error correction and performance monitoring features.
-    * Wrote assertions to check correctness of performance-monitoring logic.
-    * Infrastructure work on technical debt items to ease future maintenance requirements, with a focus on automating failure triage and other repetitive tasks. 
-* Power® 10 processor development:
-    * Debug of floating-point and vector execution unit tests, on RTL, filing defects as needed.
-    * Debug of emulator tests, covering all core functionality, filing defects as needed.
+* Z17™ processor development:
+    * On loan to mainframe group. Debugging fails on IO subsystem and filing defects as needed.
+    * Developed tools to generate transaction reports on key interfaces, greatly speeding debug effort.
+* Power® 10 and 11 processor development:
     * Verification of error injection, error detection, and error recovery functionality across whole core. Developed content to enable behaviors. Ran test content on emulation, and enabled parallel work on RTL models. Worked with exerciser teams to adjust test content when necessary. 
-    * Verification of on-die performance monitors. Automated job flow so test content could run on the emulator and self-check.
-
+    * Verification of on-die performance monitors. Automated job flow so test content could run on the emulator and self-check.  Wrote assertions to check correctness of performance-monitoring logic.
+    * Debug of emulator tests, covering all core functionality, filing defects as needed. Debug of floating-point and vector execution unit tests, on RTL, filing defects as needed.
+    * Infrastructure work on technical debt items to ease future maintenance requirements, with a focus on automating failure triage and other repetitive tasks.   
+    
 ### Design Verification Consultant, Correct Designs, Austin, Texas (June 2016 - Oct. 2018)
 * Working under contract on automotive SoC for autonomous vehicles:
     * Developed testbench infrastructure in C to enable simulation test content to run unmodified on Synopsys ZeBu emulator. Wrote test content to qualify embedded software on emulator.
