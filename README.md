@@ -23,7 +23,7 @@ Stonks is an attempt to do automatic stock fundamental analysis, with the hope o
 ### Social Media
 
 * [LinkedIn](https://www.linkedin.com/in/gkemp14/)
-* [Twitter](https://twitter.com/itsGregoryKemp)
+* [Mastodon](https://hachyderm.io/@gkemp)
 
 
 <!--
