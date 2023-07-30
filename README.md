@@ -7,7 +7,7 @@ I write a lot of code as part of my job. But the code here is stuff I've written
 * 🔭 I’m currently working on some stock-market analysis tools in Python.
 * 🌱 I’m currently learning that stock-market analysis in Python is harder than I anticipated.
 * 💬 Ask me about design verification, computer architecture, engineering management, and the stock market.
-* 📫 How to reach me: email the GitHub account; they know how to reach me.
+* 📫 How to reach me: options below.
 * 😄 Pronouns: he/him/his.
 * ⚡ Fun fact: I keep a small koi pond, which can be challenging in the Texas heat.
 
@@ -22,6 +22,7 @@ Stonks is an attempt to do automatic stock fundamental analysis, with the hope o
 
 ### Social Media
 
+* [email](mailto:gkemp@ieee.org)
 * [LinkedIn](https://www.linkedin.com/in/gkemp14/)
 * [Mastodon](https://hachyderm.io/@gkemp)
 
